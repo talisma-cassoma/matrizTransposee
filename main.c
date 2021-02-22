@@ -28,7 +28,7 @@ for(i=0; i<M; i++){
 printf("\n");
 }
 	
-printf("=====================\n");
+printf("matrice transposee:\n");
 
 transp( M, N, po);
 	return 0;
